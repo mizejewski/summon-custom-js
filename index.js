@@ -20,6 +20,8 @@ node.innerHTML += '.rollup .documentSummary .summary .authors a, .documentSummar
 
 
 
+
+
 // To add more CSS, use lines like this:
 // node.innerHTML += '.selector { font-size: large }';
 
