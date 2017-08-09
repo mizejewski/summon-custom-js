@@ -20,6 +20,8 @@ node.innerHTML += '.summary .authors a {text-decoration: none;}'; // standardize
 
 
 
+
+
 // To add more CSS, use lines like this:
 // node.innerHTML += '.selector { font-size: large }';
 
