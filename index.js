@@ -19,6 +19,7 @@ node.innerHTML += '.availability .availabilityLink {text-decoration: none; color
 node.innerHTML += '.authors a {text-decoration: none;}'; // standardize author links to our style
 
 
+
 // To add more CSS, use lines like this:
 // node.innerHTML += '.selector { font-size: large }';
 
